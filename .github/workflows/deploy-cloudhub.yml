@@ -1,4 +1,4 @@
-name: Workflow to Deploy API to CloudHub 2.0 using Anypoint CLI
+name: GitHub Workflow to Deploy API to CloudHub 2.0 using Anypoint CLI
 
 on:
   push:
